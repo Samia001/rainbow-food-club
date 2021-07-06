@@ -1,0 +1,122 @@
+body {
+  font-family: "Rubik", sans-serif;
+  margin: 0px;
+}
+
+.img-1 {
+  height: 600px;
+  width: 600px;
+}
+img {
+  height: 600px;
+}
+.container-1 {
+  display: flex;
+  margin: 40px;
+  margin-bottom: 20px;
+}
+.container-2 {
+  background-image: url(images/7.png);
+  background-repeat: no-repeat;
+  display: flex;
+  height: 600px;
+  margin: 10px;
+  margin-bottom: 20px;
+}
+.container-3 {
+  display: flex;
+  margin: 10px;
+}
+.container-3 img {
+  height: 300px;
+  width: 370px;
+}
+.container-4 {
+  display: flex;
+  box-shadow: 10px 10px 30px;
+  padding-left: 20%;
+  margin: 20px;
+  border-radius: 15px;
+}
+
+h1 {
+  font-size: 50px;
+  font-weight: 900;
+}
+.step-1 {
+  padding: 2%;
+}
+.color {
+  color: orangered;
+}
+a {
+  text-decoration: none;
+  background-image: linear-gradient(cyan, purple);
+  color: white;
+  padding: 9px 20px;
+  border-radius: 10px;
+}
+.step-2 {
+  width: 50%;
+  margin: 30px;
+  padding: 20px;
+}
+.step-2 img {
+  height: 550px;
+}
+.step-3 {
+  padding-top: 13%;
+  padding-right: 4%;
+}
+.step-4 {
+  text-align: center;
+  margin-top: 20px;
+}
+
+h3 {
+  font-size: 30px;
+}
+
+.step-6 {
+  padding: 10px 5%;
+}
+.step-5 {
+  box-shadow: 10px 10px 30px;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 20px;
+}
+.footer-color {
+  background-color: black;
+  width: 100%;
+  height: 200px;
+  color: white;
+  text-align: center;
+  padding-top: 20px;
+}
+.food-1 {
+  color: tomato;
+}
+.food-2 {
+  color: rgb(105, 98, 98);
+}
+.container-last img {
+  width: 360px;
+  height: 280px;
+  border-radius: 15px;
+}
+.container-last {
+  display: flex;
+  margin: 20px;
+}
+.last-step {
+  padding: 2%;
+  box-shadow: 10px 10px 30px;
+  margin: 13px;
+  border-radius: 15px;
+}
+hr {
+  width: 80%;
+  height: 10px;
+  background-image: linear-gradient(rgb(204, 26, 165), rgb(98, 230, 86));
+}
